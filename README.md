@@ -2,7 +2,7 @@
 
 ## Subtitle
 
-### SEction title
+### Section title
 * aaa
 - asdf
 - bbb
